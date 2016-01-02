@@ -37,3 +37,12 @@ If you haven't installed webpack yet, you can install webpack globally by runnin
 ```
 #  sudo npm install webpack -g
 ``` 
+
+Start Rails server
+
+```
+$  rails s
+```
+
+Visit http://localhost:3000/samples/index
+
