@@ -1,4 +1,4 @@
-== README
+# rails_react_render_sample
 
 This is a sample describing how to render React Component with server-side rendering on Rails. This example uses Execjs as a JavaScript runner. 
 
@@ -32,7 +32,7 @@ Then, run 'webpack' command
 $  webpack
 ```
 
-If you haven"t installed webpack yet, you can install webpack globally by running the following command.
+If you haven't installed webpack yet, you can install webpack globally by running the following command.
 
 ```
 #  sudo npm install webpack -g
