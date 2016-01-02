@@ -1,0 +1,6 @@
+<main>
+    <% component_name = 'App' %>
+    <% props =  {:sample_props => "I'm a child component and display props passed by Rails "} %>
+    <%= render_component(component_name, props)  %>
+    <div id="client_root"></div>
+</main>
