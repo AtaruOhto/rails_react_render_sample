@@ -12,6 +12,8 @@ This is a sample describing how to render React Component with server-side rende
 
 ## Prerequisite
 
+* Rails
+* Ruby
 * NodeJS
 * npm
 * webpack
